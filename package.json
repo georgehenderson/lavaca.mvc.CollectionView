@@ -1,0 +1,28 @@
+{
+  "name": "lavaca.mvc.CollectionView",
+  "version": "0.1.0",
+  "description": "Automagically render models in a collection as child views",
+  "main": "Gruntfile.js",
+  "scripts": {},
+  "dependecies": {},
+  "devDependencies": {
+    "grunt": "0.4.1",
+    "grunt-contrib-less": "0.6.3",
+    "grunt-contrib-jasmine": "git://github.com/zship/grunt-contrib-jasmine.git",
+    "grunt-amd-dist": "0.4.x",
+    "grunt-amd-test": "0.4.x",
+    "grunt-amd-check": "0.5.x"
+  },
+  "repository": "https://github.com/georgehenderson/lavaca.mvc.CollectionView.git",
+  "keywords": [
+    "Lavaca",
+    "mvc",
+    "javascript",
+    "view"
+  ],
+  "author": {
+    "name" : "George Henderson",
+    "email" : "george.henderson@mutualmobile.com"
+  },
+  "license": "MIT"
+}

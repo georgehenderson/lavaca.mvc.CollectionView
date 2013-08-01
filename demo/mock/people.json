@@ -1,0 +1,2002 @@
+[
+  {
+    "rank": 1,
+    "player": "Tiger Woods",
+    "country": "USA",
+    "averagePoints": 12.46,
+    "totalPoints": 498.56,
+    "totalEvents": 40,
+    "pointsLost": -165.70,
+    "pointsGained": 322.94
+  },
+  {
+    "rank": 2,
+    "player": "Phil Mickelson",
+    "country": "USA",
+    "averagePoints": 8.56,
+    "totalPoints": 419.22,
+    "totalEvents": 49,
+    "pointsLost": -126.23,
+    "pointsGained": 315.58
+  },
+  {
+    "rank": 3,
+    "player": "Rory McIlroy",
+    "country": "NIR",
+    "averagePoints": 8.43,
+    "totalPoints": 404.70,
+    "totalEvents": 48,
+    "pointsLost": -282.84,
+    "pointsGained": 66.23
+  },
+  {
+    "rank": 4,
+    "player": "Justin Rose",
+    "country": "ENG",
+    "averagePoints": 7.59,
+    "totalPoints": 394.76,
+    "totalEvents": 52,
+    "pointsLost": -161.67,
+    "pointsGained": 221.55
+  },
+  {
+    "rank": 5,
+    "player": "Adam Scott",
+    "country": "AUS",
+    "averagePoints": 7.58,
+    "totalPoints": 303.30,
+    "totalEvents": 40,
+    "pointsLost": -136.56,
+    "pointsGained": 179.16
+  },
+  {
+    "rank": 6,
+    "player": "Matt Kuchar",
+    "country": "USA",
+    "averagePoints": 6.80,
+    "totalPoints": 346.58,
+    "totalEvents": 51,
+    "pointsLost": -132.36,
+    "pointsGained": 252.60
+  },
+  {
+    "rank": 7,
+    "player": "Brandt Snedeker",
+    "country": "USA",
+    "averagePoints": 6.76,
+    "totalPoints": 344.92,
+    "totalEvents": 51,
+    "pointsLost": -146.25,
+    "pointsGained": 219.11
+  },
+  {
+    "rank": 8,
+    "player": "Graeme McDowell",
+    "country": "NIR",
+    "averagePoints": 5.98,
+    "totalPoints": 310.82,
+    "totalEvents": 52,
+    "pointsLost": -116.91,
+    "pointsGained": 174.48
+  },
+  {
+    "rank": 9,
+    "player": "Luke Donald",
+    "country": "ENG",
+    "averagePoints": 5.43,
+    "totalPoints": 271.34,
+    "totalEvents": 50,
+    "pointsLost": -241.15,
+    "pointsGained": 72.75
+  },
+  {
+    "rank": 10,
+    "player": "Lee Westwood",
+    "country": "ENG",
+    "averagePoints": 5.12,
+    "totalPoints": 266.29,
+    "totalEvents": 52,
+    "pointsLost": -167.67,
+    "pointsGained": 120.25
+  },
+  {
+    "rank": 11,
+    "player": "Steve Stricker",
+    "country": "USA",
+    "averagePoints": 4.79,
+    "totalPoints": 191.74,
+    "totalEvents": 40,
+    "pointsLost": -116.58,
+    "pointsGained": 117.72
+  },
+  {
+    "rank": 12,
+    "player": "Louis Oosthuizen",
+    "country": "ZAF",
+    "averagePoints": 4.75,
+    "totalPoints": 246.75,
+    "totalEvents": 52,
+    "pointsLost": -142.58,
+    "pointsGained": 70.00
+  },
+  {
+    "rank": 13,
+    "player": "Charl Schwartzel",
+    "country": "ZAF",
+    "averagePoints": 4.71,
+    "totalPoints": 245.06,
+    "totalEvents": 52,
+    "pointsLost": -124.02,
+    "pointsGained": 112.88
+  },
+  {
+    "rank": 14,
+    "player": "Ernie Els",
+    "country": "ZAF",
+    "averagePoints": 4.69,
+    "totalPoints": 243.66,
+    "totalEvents": 52,
+    "pointsLost": -98.36,
+    "pointsGained": 117.10
+  },
+  {
+    "rank": 15,
+    "player": "Ian Poulter",
+    "country": "ENG",
+    "averagePoints": 4.67,
+    "totalPoints": 224.10,
+    "totalEvents": 48,
+    "pointsLost": -111.09,
+    "pointsGained": 80.30
+  },
+  {
+    "rank": 16,
+    "player": "Sergio Garcia",
+    "country": "ESP",
+    "averagePoints": 4.62,
+    "totalPoints": 226.36,
+    "totalEvents": 49,
+    "pointsLost": -120.81,
+    "pointsGained": 115.18
+  },
+  {
+    "rank": 17,
+    "player": "Keegan Bradley",
+    "country": "USA",
+    "averagePoints": 4.44,
+    "totalPoints": 230.80,
+    "totalEvents": 52,
+    "pointsLost": -137.90,
+    "pointsGained": 111.65
+  },
+  {
+    "rank": 18,
+    "player": "Bubba Watson",
+    "country": "USA",
+    "averagePoints": 4.42,
+    "totalPoints": 207.54,
+    "totalEvents": 47,
+    "pointsLost": -128.38,
+    "pointsGained": 76.48
+  },
+  {
+    "rank": 19,
+    "player": "Henrik Stenson",
+    "country": "SWE",
+    "averagePoints": 4.40,
+    "totalPoints": 228.72,
+    "totalEvents": 52,
+    "pointsLost": -46.10,
+    "pointsGained": 163.80
+  },
+  {
+    "rank": 20,
+    "player": "Jason Day",
+    "country": "AUS",
+    "averagePoints": 4.38,
+    "totalPoints": 192.91,
+    "totalEvents": 44,
+    "pointsLost": -91.95,
+    "pointsGained": 157.78
+  },
+  {
+    "rank": 21,
+    "player": "Dustin Johnson",
+    "country": "USA",
+    "averagePoints": 4.17,
+    "totalPoints": 195.94,
+    "totalEvents": 47,
+    "pointsLost": -126.05,
+    "pointsGained": 112.78
+  },
+  {
+    "rank": 22,
+    "player": "Hunter Mahan",
+    "country": "USA",
+    "averagePoints": 4.08,
+    "totalPoints": 212.15,
+    "totalEvents": 52,
+    "pointsLost": -115.89,
+    "pointsGained": 127.49
+  },
+  {
+    "rank": 23,
+    "player": "Webb Simpson",
+    "country": "USA",
+    "averagePoints": 4.06,
+    "totalPoints": 207.12,
+    "totalEvents": 51,
+    "pointsLost": -151.54,
+    "pointsGained": 102.29
+  },
+  {
+    "rank": 24,
+    "player": "Jason Dufner",
+    "country": "USA",
+    "averagePoints": 3.99,
+    "totalPoints": 207.28,
+    "totalEvents": 52,
+    "pointsLost": -131.94,
+    "pointsGained": 69.37
+  },
+  {
+    "rank": 25,
+    "player": "Bill Haas",
+    "country": "USA",
+    "averagePoints": 3.88,
+    "totalPoints": 201.83,
+    "totalEvents": 52,
+    "pointsLost": -96.74,
+    "pointsGained": 135.61
+  },
+  {
+    "rank": 26,
+    "player": "Zach Johnson",
+    "country": "USA",
+    "averagePoints": 3.61,
+    "totalPoints": 184.08,
+    "totalEvents": 51,
+    "pointsLost": -105.06,
+    "pointsGained": 76.80
+  },
+  {
+    "rank": 27,
+    "player": "Matteo Manassero",
+    "country": "ITA",
+    "averagePoints": 3.35,
+    "totalPoints": 174.14,
+    "totalEvents": 52,
+    "pointsLost": -61.81,
+    "pointsGained": 101.55
+  },
+  {
+    "rank": 28,
+    "player": "Branden Grace",
+    "country": "ZAF",
+    "averagePoints": 3.34,
+    "totalPoints": 173.69,
+    "totalEvents": 52,
+    "pointsLost": -75.30,
+    "pointsGained": 82.60
+  },
+  {
+    "rank": 29,
+    "player": "Jim Furyk",
+    "country": "USA",
+    "averagePoints": 3.28,
+    "totalPoints": 164.06,
+    "totalEvents": 50,
+    "pointsLost": -90.85,
+    "pointsGained": 55.81
+  },
+  {
+    "rank": 30,
+    "player": "Nick Watney",
+    "country": "USA",
+    "averagePoints": 3.28,
+    "totalPoints": 170.34,
+    "totalEvents": 52,
+    "pointsLost": -119.97,
+    "pointsGained": 54.64
+  },
+  {
+    "rank": 31,
+    "player": "Peter Hanson",
+    "country": "SWE",
+    "averagePoints": 3.26,
+    "totalPoints": 169.59,
+    "totalEvents": 52,
+    "pointsLost": -110.86,
+    "pointsGained": 40.11
+  },
+  {
+    "rank": 32,
+    "player": "Bo Van Pelt",
+    "country": "USA",
+    "averagePoints": 3.20,
+    "totalPoints": 166.44,
+    "totalEvents": 52,
+    "pointsLost": -108.95,
+    "pointsGained": 46.96
+  },
+  {
+    "rank": 33,
+    "player": "Hideki Matsuyama",
+    "country": "JPN",
+    "averagePoints": 3.05,
+    "totalPoints": 122.05,
+    "totalEvents": 40,
+    "pointsLost": -21.31,
+    "pointsGained": 91.68
+  },
+  {
+    "rank": 34,
+    "player": "Richard Sterne",
+    "country": "ZAF",
+    "averagePoints": 2.99,
+    "totalPoints": 122.39,
+    "totalEvents": 41,
+    "pointsLost": -24.25,
+    "pointsGained": 101.94
+  },
+  {
+    "rank": 35,
+    "player": "Rickie Fowler",
+    "country": "USA",
+    "averagePoints": 2.96,
+    "totalPoints": 148.13,
+    "totalEvents": 50,
+    "pointsLost": -97.79,
+    "pointsGained": 74.08
+  },
+  {
+    "rank": 36,
+    "player": "Martin Kaymer",
+    "country": "DEU",
+    "averagePoints": 2.85,
+    "totalPoints": 148.11,
+    "totalEvents": 52,
+    "pointsLost": -103.06,
+    "pointsGained": 60.59
+  },
+  {
+    "rank": 37,
+    "player": "Billy Horschel",
+    "country": "USA",
+    "averagePoints": 2.83,
+    "totalPoints": 147.28,
+    "totalEvents": 52,
+    "pointsLost": -19.12,
+    "pointsGained": 138.40
+  },
+  {
+    "rank": 38,
+    "player": "Jamie Donaldson",
+    "country": "WAL",
+    "averagePoints": 2.83,
+    "totalPoints": 138.51,
+    "totalEvents": 49,
+    "pointsLost": -62.26,
+    "pointsGained": 88.36
+  },
+  {
+    "rank": 39,
+    "player": "Francesco Molinari",
+    "country": "ITA",
+    "averagePoints": 2.82,
+    "totalPoints": 146.78,
+    "totalEvents": 52,
+    "pointsLost": -82.06,
+    "pointsGained": 51.04
+  },
+  {
+    "rank": 40,
+    "player": "Kevin Streelman",
+    "country": "USA",
+    "averagePoints": 2.78,
+    "totalPoints": 141.75,
+    "totalEvents": 51,
+    "pointsLost": -31.93,
+    "pointsGained": 131.91
+  },
+  {
+    "rank": 41,
+    "player": "Thorbjorn Olesen",
+    "country": "DNK",
+    "averagePoints": 2.65,
+    "totalPoints": 137.77,
+    "totalEvents": 52,
+    "pointsLost": -59.17,
+    "pointsGained": 82.54
+  },
+  {
+    "rank": 42,
+    "player": "Nicolas Colsaerts",
+    "country": "BEL",
+    "averagePoints": 2.64,
+    "totalPoints": 137.48,
+    "totalEvents": 52,
+    "pointsLost": -79.26,
+    "pointsGained": 57.11
+  },
+  {
+    "rank": 43,
+    "player": "Angel Cabrera",
+    "country": "ARG",
+    "averagePoints": 2.61,
+    "totalPoints": 117.60,
+    "totalEvents": 45,
+    "pointsLost": -19.88,
+    "pointsGained": 108.00
+  },
+  {
+    "rank": 44,
+    "player": "Ryan Moore",
+    "country": "USA",
+    "averagePoints": 2.59,
+    "totalPoints": 124.31,
+    "totalEvents": 48,
+    "pointsLost": -65.64,
+    "pointsGained": 57.37
+  },
+  {
+    "rank": 45,
+    "player": "Gonzalo Fdez-Castano",
+    "country": "ESP",
+    "averagePoints": 2.59,
+    "totalPoints": 134.59,
+    "totalEvents": 52,
+    "pointsLost": -66.12,
+    "pointsGained": 68.25
+  },
+  {
+    "rank": 46,
+    "player": "Scott Piercy",
+    "country": "USA",
+    "averagePoints": 2.52,
+    "totalPoints": 130.83,
+    "totalEvents": 52,
+    "pointsLost": -68.09,
+    "pointsGained": 58.99
+  },
+  {
+    "rank": 47,
+    "player": "Carl Pettersson",
+    "country": "SWE",
+    "averagePoints": 2.46,
+    "totalPoints": 128.03,
+    "totalEvents": 52,
+    "pointsLost": -81.43,
+    "pointsGained": 37.17
+  },
+  {
+    "rank": 48,
+    "player": "Jonas Blixt",
+    "country": "SWE",
+    "averagePoints": 2.44,
+    "totalPoints": 126.63,
+    "totalEvents": 52,
+    "pointsLost": -39.43,
+    "pointsGained": 77.44
+  },
+  {
+    "rank": 49,
+    "player": "Martin Laird",
+    "country": "SCO",
+    "averagePoints": 2.42,
+    "totalPoints": 123.63,
+    "totalEvents": 51,
+    "pointsLost": -59.66,
+    "pointsGained": 82.69
+  },
+  {
+    "rank": 50,
+    "player": "David Lynn",
+    "country": "ENG",
+    "averagePoints": 2.40,
+    "totalPoints": 124.80,
+    "totalEvents": 52,
+    "pointsLost": -56.80,
+    "pointsGained": 65.34
+  },
+  {
+    "rank": 51,
+    "player": "Paul Lawrie",
+    "country": "SCO",
+    "averagePoints": 2.38,
+    "totalPoints": 119.21,
+    "totalEvents": 50,
+    "pointsLost": -84.10,
+    "pointsGained": 26.89
+  },
+  {
+    "rank": 52,
+    "player": "Jordan Spieth",
+    "country": "USA",
+    "averagePoints": 2.36,
+    "totalPoints": 94.50,
+    "totalEvents": 40,
+    "pointsLost": -4.96,
+    "pointsGained": 94.35
+  },
+  {
+    "rank": 53,
+    "player": "Robert Garrigus",
+    "country": "USA",
+    "averagePoints": 2.36,
+    "totalPoints": 122.80,
+    "totalEvents": 52,
+    "pointsLost": -68.83,
+    "pointsGained": 43.42
+  },
+  {
+    "rank": 54,
+    "player": "Tim Clark",
+    "country": "ZAF",
+    "averagePoints": 2.34,
+    "totalPoints": 93.41,
+    "totalEvents": 40,
+    "pointsLost": -29.34,
+    "pointsGained": 57.76
+  },
+  {
+    "rank": 55,
+    "player": "D.A. Points",
+    "country": "USA",
+    "averagePoints": 2.32,
+    "totalPoints": 120.41,
+    "totalEvents": 52,
+    "pointsLost": -39.20,
+    "pointsGained": 95.82
+  },
+  {
+    "rank": 56,
+    "player": "Michael Thompson",
+    "country": "USA",
+    "averagePoints": 2.31,
+    "totalPoints": 120.13,
+    "totalEvents": 52,
+    "pointsLost": -50.39,
+    "pointsGained": 83.78
+  },
+  {
+    "rank": 57,
+    "player": "Thomas Bjorn",
+    "country": "DNK",
+    "averagePoints": 2.29,
+    "totalPoints": 114.74,
+    "totalEvents": 50,
+    "pointsLost": -70.61,
+    "pointsGained": 66.79
+  },
+  {
+    "rank": 58,
+    "player": "Thongchai Jaidee",
+    "country": "THA",
+    "averagePoints": 2.29,
+    "totalPoints": 119.21,
+    "totalEvents": 52,
+    "pointsLost": -42.43,
+    "pointsGained": 67.71
+  },
+  {
+    "rank": 59,
+    "player": "Bernd Wiesberger",
+    "country": "AUT",
+    "averagePoints": 2.29,
+    "totalPoints": 119.17,
+    "totalEvents": 52,
+    "pointsLost": -48.75,
+    "pointsGained": 63.45
+  },
+  {
+    "rank": 60,
+    "player": "Russell Henley",
+    "country": "USA",
+    "averagePoints": 2.28,
+    "totalPoints": 106.98,
+    "totalEvents": 47,
+    "pointsLost": -27.21,
+    "pointsGained": 83.22
+  },
+  {
+    "rank": 61,
+    "player": "Boo Weekley",
+    "country": "USA",
+    "averagePoints": 2.23,
+    "totalPoints": 116.12,
+    "totalEvents": 52,
+    "pointsLost": -16.06,
+    "pointsGained": 103.78
+  },
+  {
+    "rank": 62,
+    "player": "Marcel Siem",
+    "country": "DEU",
+    "averagePoints": 2.22,
+    "totalPoints": 115.59,
+    "totalEvents": 52,
+    "pointsLost": -51.11,
+    "pointsGained": 58.66
+  },
+  {
+    "rank": 63,
+    "player": "Jimmy Walker",
+    "country": "USA",
+    "averagePoints": 2.20,
+    "totalPoints": 114.17,
+    "totalEvents": 52,
+    "pointsLost": -40.67,
+    "pointsGained": 83.23
+  },
+  {
+    "rank": 64,
+    "player": "Mikko Ilonen",
+    "country": "FIN",
+    "averagePoints": 2.15,
+    "totalPoints": 85.87,
+    "totalEvents": 40,
+    "pointsLost": -9.70,
+    "pointsGained": 76.15
+  },
+  {
+    "rank": 65,
+    "player": "Fredrik Jacobson",
+    "country": "SWE",
+    "averagePoints": 2.12,
+    "totalPoints": 89.00,
+    "totalEvents": 42,
+    "pointsLost": -66.12,
+    "pointsGained": 63.00
+  },
+  {
+    "rank": 66,
+    "player": "Kyle Stanley",
+    "country": "USA",
+    "averagePoints": 2.11,
+    "totalPoints": 109.86,
+    "totalEvents": 52,
+    "pointsLost": -56.19,
+    "pointsGained": 70.20
+  },
+  {
+    "rank": 67,
+    "player": "Alexander Noren",
+    "country": "SWE",
+    "averagePoints": 2.10,
+    "totalPoints": 102.99,
+    "totalEvents": 49,
+    "pointsLost": -62.46,
+    "pointsGained": 54.66
+  },
+  {
+    "rank": 68,
+    "player": "George Coetzee",
+    "country": "ZAF",
+    "averagePoints": 2.09,
+    "totalPoints": 108.70,
+    "totalEvents": 52,
+    "pointsLost": -64.11,
+    "pointsGained": 53.37
+  },
+  {
+    "rank": 69,
+    "player": "Marc Leishman",
+    "country": "AUS",
+    "averagePoints": 2.07,
+    "totalPoints": 107.57,
+    "totalEvents": 52,
+    "pointsLost": -41.72,
+    "pointsGained": 62.15
+  },
+  {
+    "rank": 70,
+    "player": "Graham Delaet",
+    "country": "CAN",
+    "averagePoints": 2.04,
+    "totalPoints": 93.92,
+    "totalEvents": 46,
+    "pointsLost": -18.77,
+    "pointsGained": 72.40
+  },
+  {
+    "rank": 71,
+    "player": "Chris Wood",
+    "country": "ENG",
+    "averagePoints": 1.99,
+    "totalPoints": 91.69,
+    "totalEvents": 46,
+    "pointsLost": -33.68,
+    "pointsGained": 65.20
+  },
+  {
+    "rank": 72,
+    "player": "Stephen Gallacher",
+    "country": "SCO",
+    "averagePoints": 1.99,
+    "totalPoints": 99.60,
+    "totalEvents": 50,
+    "pointsLost": -43.50,
+    "pointsGained": 62.89
+  },
+  {
+    "rank": 73,
+    "player": "Miguel A Jimenez",
+    "country": "ESP",
+    "averagePoints": 1.98,
+    "totalPoints": 92.96,
+    "totalEvents": 47,
+    "pointsLost": -52.84,
+    "pointsGained": 33.37
+  },
+  {
+    "rank": 74,
+    "player": "Luke Guthrie",
+    "country": "USA",
+    "averagePoints": 1.97,
+    "totalPoints": 78.70,
+    "totalEvents": 40,
+    "pointsLost": -23.31,
+    "pointsGained": 46.51
+  },
+  {
+    "rank": 75,
+    "player": "Padraig Harrington",
+    "country": "IRL",
+    "averagePoints": 1.96,
+    "totalPoints": 101.79,
+    "totalEvents": 52,
+    "pointsLost": -55.09,
+    "pointsGained": 49.54
+  },
+  {
+    "rank": 76,
+    "player": "David Lingmerth",
+    "country": "SWE",
+    "averagePoints": 1.95,
+    "totalPoints": 101.48,
+    "totalEvents": 52,
+    "pointsLost": -21.36,
+    "pointsGained": 83.03
+  },
+  {
+    "rank": 77,
+    "player": "Ken Duke",
+    "country": "USA",
+    "averagePoints": 1.93,
+    "totalPoints": 100.31,
+    "totalEvents": 52,
+    "pointsLost": -30.42,
+    "pointsGained": 75.55
+  },
+  {
+    "rank": 78,
+    "player": "Scott Stallings",
+    "country": "USA",
+    "averagePoints": 1.91,
+    "totalPoints": 99.57,
+    "totalEvents": 52,
+    "pointsLost": -40.45,
+    "pointsGained": 71.83
+  },
+  {
+    "rank": 79,
+    "player": "Harris English",
+    "country": "USA",
+    "averagePoints": 1.91,
+    "totalPoints": 99.25,
+    "totalEvents": 52,
+    "pointsLost": -26.06,
+    "pointsGained": 77.92
+  },
+  {
+    "rank": 80,
+    "player": "Charles Howell-III",
+    "country": "USA",
+    "averagePoints": 1.90,
+    "totalPoints": 98.79,
+    "totalEvents": 52,
+    "pointsLost": -55.14,
+    "pointsGained": 83.06
+  },
+  {
+    "rank": 81,
+    "player": "Joost Luiten",
+    "country": "NLD",
+    "averagePoints": 1.89,
+    "totalPoints": 98.25,
+    "totalEvents": 52,
+    "pointsLost": -44.21,
+    "pointsGained": 65.90
+  },
+  {
+    "rank": 82,
+    "player": "Shane Lowry",
+    "country": "IRL",
+    "averagePoints": 1.89,
+    "totalPoints": 98.14,
+    "totalEvents": 52,
+    "pointsLost": -49.53,
+    "pointsGained": 39.96
+  },
+  {
+    "rank": 83,
+    "player": "Geoff Ogilvy",
+    "country": "AUS",
+    "averagePoints": 1.87,
+    "totalPoints": 93.47,
+    "totalEvents": 50,
+    "pointsLost": -59.36,
+    "pointsGained": 48.14
+  },
+  {
+    "rank": 84,
+    "player": "John Senden",
+    "country": "AUS",
+    "averagePoints": 1.87,
+    "totalPoints": 97.10,
+    "totalEvents": 52,
+    "pointsLost": -81.03,
+    "pointsGained": 35.33
+  },
+  {
+    "rank": 85,
+    "player": "Brett Rumford",
+    "country": "AUS",
+    "averagePoints": 1.86,
+    "totalPoints": 96.81,
+    "totalEvents": 52,
+    "pointsLost": -19.63,
+    "pointsGained": 73.25
+  },
+  {
+    "rank": 86,
+    "player": "Hiroyuki Fujita",
+    "country": "JPN",
+    "averagePoints": 1.85,
+    "totalPoints": 96.24,
+    "totalEvents": 52,
+    "pointsLost": -59.98,
+    "pointsGained": 15.60
+  },
+  {
+    "rank": 87,
+    "player": "Ryan Palmer",
+    "country": "USA",
+    "averagePoints": 1.84,
+    "totalPoints": 93.71,
+    "totalEvents": 51,
+    "pointsLost": -42.38,
+    "pointsGained": 66.02
+  },
+  {
+    "rank": 88,
+    "player": "Marcus Fraser",
+    "country": "AUS",
+    "averagePoints": 1.82,
+    "totalPoints": 94.84,
+    "totalEvents": 52,
+    "pointsLost": -52.98,
+    "pointsGained": 36.95
+  },
+  {
+    "rank": 89,
+    "player": "Brendon de Jonge",
+    "country": "ZWE",
+    "averagePoints": 1.82,
+    "totalPoints": 94.82,
+    "totalEvents": 52,
+    "pointsLost": -45.26,
+    "pointsGained": 51.58
+  },
+  {
+    "rank": 90,
+    "player": "Kiradech Aphibarnrat",
+    "country": "THA",
+    "averagePoints": 1.82,
+    "totalPoints": 94.72,
+    "totalEvents": 52,
+    "pointsLost": -28.23,
+    "pointsGained": 73.36
+  },
+  {
+    "rank": 91,
+    "player": "John Merrick",
+    "country": "USA",
+    "averagePoints": 1.78,
+    "totalPoints": 92.60,
+    "totalEvents": 52,
+    "pointsLost": -26.65,
+    "pointsGained": 79.95
+  },
+  {
+    "rank": 92,
+    "player": "Bae Sang-moon",
+    "country": "KOR",
+    "averagePoints": 1.74,
+    "totalPoints": 90.65,
+    "totalEvents": 52,
+    "pointsLost": -66.31,
+    "pointsGained": 62.50
+  },
+  {
+    "rank": 93,
+    "player": "Chris Kirk",
+    "country": "USA",
+    "averagePoints": 1.74,
+    "totalPoints": 90.56,
+    "totalEvents": 52,
+    "pointsLost": -44.96,
+    "pointsGained": 63.09
+  },
+  {
+    "rank": 94,
+    "player": "John Huh",
+    "country": "USA",
+    "averagePoints": 1.70,
+    "totalPoints": 88.59,
+    "totalEvents": 52,
+    "pointsLost": -38.56,
+    "pointsGained": 45.20
+  },
+  {
+    "rank": 95,
+    "player": "Rafael Cabrera Bello",
+    "country": "ESP",
+    "averagePoints": 1.69,
+    "totalPoints": 87.79,
+    "totalEvents": 52,
+    "pointsLost": -57.80,
+    "pointsGained": 33.86
+  },
+  {
+    "rank": 96,
+    "player": "Charley Hoffman",
+    "country": "USA",
+    "averagePoints": 1.67,
+    "totalPoints": 86.66,
+    "totalEvents": 52,
+    "pointsLost": -32.68,
+    "pointsGained": 62.91
+  },
+  {
+    "rank": 97,
+    "player": "Kevin Chappell",
+    "country": "USA",
+    "averagePoints": 1.66,
+    "totalPoints": 86.53,
+    "totalEvents": 52,
+    "pointsLost": -28.52,
+    "pointsGained": 72.20
+  },
+  {
+    "rank": 98,
+    "player": "Paul Casey",
+    "country": "ENG",
+    "averagePoints": 1.65,
+    "totalPoints": 79.14,
+    "totalEvents": 48,
+    "pointsLost": -37.59,
+    "pointsGained": 51.44
+  },
+  {
+    "rank": 99,
+    "player": "K.J. Choi",
+    "country": "KOR",
+    "averagePoints": 1.65,
+    "totalPoints": 85.64,
+    "totalEvents": 52,
+    "pointsLost": -81.48,
+    "pointsGained": 47.89
+  },
+  {
+    "rank": 100,
+    "player": "Danny Willett",
+    "country": "ENG",
+    "averagePoints": 1.64,
+    "totalPoints": 78.68,
+    "totalEvents": 48,
+    "pointsLost": -37.50,
+    "pointsGained": 32.25
+  },
+  {
+    "rank": 101,
+    "player": "Pablo Larrazabal",
+    "country": "ESP",
+    "averagePoints": 1.63,
+    "totalPoints": 84.71,
+    "totalEvents": 52,
+    "pointsLost": -51.90,
+    "pointsGained": 46.76
+  },
+  {
+    "rank": 102,
+    "player": "Brendan Jones",
+    "country": "AUS",
+    "averagePoints": 1.62,
+    "totalPoints": 74.53,
+    "totalEvents": 46,
+    "pointsLost": -35.57,
+    "pointsGained": 23.96
+  },
+  {
+    "rank": 103,
+    "player": "Richie Ramsay",
+    "country": "SCO",
+    "averagePoints": 1.59,
+    "totalPoints": 81.32,
+    "totalEvents": 51,
+    "pointsLost": -52.59,
+    "pointsGained": 22.87
+  },
+  {
+    "rank": 104,
+    "player": "Jaco Van Zyl",
+    "country": "ZAF",
+    "averagePoints": 1.58,
+    "totalPoints": 82.12,
+    "totalEvents": 52,
+    "pointsLost": -36.71,
+    "pointsGained": 57.66
+  },
+  {
+    "rank": 105,
+    "player": "Scott Jamieson",
+    "country": "SCO",
+    "averagePoints": 1.58,
+    "totalPoints": 82.07,
+    "totalEvents": 52,
+    "pointsLost": -38.27,
+    "pointsGained": 37.88
+  },
+  {
+    "rank": 106,
+    "player": "Anders Hansen",
+    "country": "DNK",
+    "averagePoints": 1.57,
+    "totalPoints": 68.98,
+    "totalEvents": 44,
+    "pointsLost": -60.62,
+    "pointsGained": 28.58
+  },
+  {
+    "rank": 107,
+    "player": "Raphael Jacquelin",
+    "country": "FRA",
+    "averagePoints": 1.53,
+    "totalPoints": 77.95,
+    "totalEvents": 51,
+    "pointsLost": -37.41,
+    "pointsGained": 43.93
+  },
+  {
+    "rank": 108,
+    "player": "Peter Uihlein",
+    "country": "USA",
+    "averagePoints": 1.53,
+    "totalPoints": 61.04,
+    "totalEvents": 40,
+    "pointsLost": -8.51,
+    "pointsGained": 51.69
+  },
+  {
+    "rank": 109,
+    "player": "Chris Stroud",
+    "country": "USA",
+    "averagePoints": 1.51,
+    "totalPoints": 78.71,
+    "totalEvents": 52,
+    "pointsLost": -24.08,
+    "pointsGained": 66.72
+  },
+  {
+    "rank": 110,
+    "player": "Kim Hyung-sung",
+    "country": "KOR",
+    "averagePoints": 1.51,
+    "totalPoints": 77.09,
+    "totalEvents": 51,
+    "pointsLost": -26.95,
+    "pointsGained": 36.43
+  },
+  {
+    "rank": 111,
+    "player": "Marc Warren",
+    "country": "SCO",
+    "averagePoints": 1.50,
+    "totalPoints": 77.86,
+    "totalEvents": 52,
+    "pointsLost": -22.75,
+    "pointsGained": 49.17
+  },
+  {
+    "rank": 112,
+    "player": "Michael Putnam",
+    "country": "USA",
+    "averagePoints": 1.50,
+    "totalPoints": 61.29,
+    "totalEvents": 41,
+    "pointsLost": -10.11,
+    "pointsGained": 50.83
+  },
+  {
+    "rank": 113,
+    "player": "Victor Dubuisson",
+    "country": "FRA",
+    "averagePoints": 1.49,
+    "totalPoints": 59.77,
+    "totalEvents": 40,
+    "pointsLost": -25.62,
+    "pointsGained": 35.83
+  },
+  {
+    "rank": 114,
+    "player": "Thomas Aiken",
+    "country": "ZAF",
+    "averagePoints": 1.48,
+    "totalPoints": 77.17,
+    "totalEvents": 52,
+    "pointsLost": -39.35,
+    "pointsGained": 43.84
+  },
+  {
+    "rank": 115,
+    "player": "Brooks Koepka",
+    "country": "USA",
+    "averagePoints": 1.48,
+    "totalPoints": 59.20,
+    "totalEvents": 40,
+    "pointsLost": -5.55,
+    "pointsGained": 49.25
+  },
+  {
+    "rank": 116,
+    "player": "Darren Fichardt",
+    "country": "ZAF",
+    "averagePoints": 1.48,
+    "totalPoints": 75.36,
+    "totalEvents": 51,
+    "pointsLost": -23.60,
+    "pointsGained": 50.50
+  },
+  {
+    "rank": 117,
+    "player": "Josh Teater",
+    "country": "USA",
+    "averagePoints": 1.46,
+    "totalPoints": 76.02,
+    "totalEvents": 52,
+    "pointsLost": -27.71,
+    "pointsGained": 58.40
+  },
+  {
+    "rank": 118,
+    "player": "Roberto Castro",
+    "country": "USA",
+    "averagePoints": 1.46,
+    "totalPoints": 76.00,
+    "totalEvents": 52,
+    "pointsLost": -17.41,
+    "pointsGained": 60.26
+  },
+  {
+    "rank": 119,
+    "player": "Charlie Beljan",
+    "country": "USA",
+    "averagePoints": 1.44,
+    "totalPoints": 66.42,
+    "totalEvents": 46,
+    "pointsLost": -18.47,
+    "pointsGained": 41.70
+  },
+  {
+    "rank": 120,
+    "player": "Morgan Hoffmann",
+    "country": "USA",
+    "averagePoints": 1.44,
+    "totalPoints": 57.48,
+    "totalEvents": 40,
+    "pointsLost": -11.51,
+    "pointsGained": 39.22
+  },
+  {
+    "rank": 121,
+    "player": "Mark Wilson",
+    "country": "USA",
+    "averagePoints": 1.44,
+    "totalPoints": 73.25,
+    "totalEvents": 51,
+    "pointsLost": -53.42,
+    "pointsGained": 42.93
+  },
+  {
+    "rank": 122,
+    "player": "Derek Ernst",
+    "country": "USA",
+    "averagePoints": 1.42,
+    "totalPoints": 56.92,
+    "totalEvents": 40,
+    "pointsLost": -0.01,
+    "pointsGained": 56.93
+  },
+  {
+    "rank": 123,
+    "player": "Pat Perez",
+    "country": "USA",
+    "averagePoints": 1.40,
+    "totalPoints": 68.60,
+    "totalEvents": 49,
+    "pointsLost": -33.05,
+    "pointsGained": 43.75
+  },
+  {
+    "rank": 124,
+    "player": "Ben Crane",
+    "country": "USA",
+    "averagePoints": 1.37,
+    "totalPoints": 70.08,
+    "totalEvents": 51,
+    "pointsLost": -50.17,
+    "pointsGained": 34.93
+  },
+  {
+    "rank": 125,
+    "player": "David Toms",
+    "country": "USA",
+    "averagePoints": 1.37,
+    "totalPoints": 57.63,
+    "totalEvents": 42,
+    "pointsLost": -73.27,
+    "pointsGained": 12.80
+  },
+  {
+    "rank": 126,
+    "player": "John Rollins",
+    "country": "USA",
+    "averagePoints": 1.37,
+    "totalPoints": 71.10,
+    "totalEvents": 52,
+    "pointsLost": -38.23,
+    "pointsGained": 48.48
+  },
+  {
+    "rank": 127,
+    "player": "Brian Davis",
+    "country": "ENG",
+    "averagePoints": 1.37,
+    "totalPoints": 70.99,
+    "totalEvents": 52,
+    "pointsLost": -37.18,
+    "pointsGained": 45.15
+  },
+  {
+    "rank": 128,
+    "player": "Eduardo De la Riva",
+    "country": "ESP",
+    "averagePoints": 1.35,
+    "totalPoints": 54.07,
+    "totalEvents": 40,
+    "pointsLost": -15.20,
+    "pointsGained": 30.43
+  },
+  {
+    "rank": 129,
+    "player": "Ross Fisher",
+    "country": "ENG",
+    "averagePoints": 1.33,
+    "totalPoints": 67.91,
+    "totalEvents": 51,
+    "pointsLost": -35.53,
+    "pointsGained": 28.29
+  },
+  {
+    "rank": 130,
+    "player": "Cameron Tringale",
+    "country": "USA",
+    "averagePoints": 1.33,
+    "totalPoints": 69.22,
+    "totalEvents": 52,
+    "pointsLost": -35.55,
+    "pointsGained": 49.84
+  },
+  {
+    "rank": 131,
+    "player": "Kevin Stadler",
+    "country": "USA",
+    "averagePoints": 1.33,
+    "totalPoints": 69.06,
+    "totalEvents": 52,
+    "pointsLost": -34.21,
+    "pointsGained": 35.46
+  },
+  {
+    "rank": 132,
+    "player": "David Hearn",
+    "country": "CAN",
+    "averagePoints": 1.33,
+    "totalPoints": 68.98,
+    "totalEvents": 52,
+    "pointsLost": -22.64,
+    "pointsGained": 50.74
+  },
+  {
+    "rank": 133,
+    "player": "Thaworn Wiratchant",
+    "country": "THA",
+    "averagePoints": 1.30,
+    "totalPoints": 67.72,
+    "totalEvents": 52,
+    "pointsLost": -41.72,
+    "pointsGained": 6.30
+  },
+  {
+    "rank": 134,
+    "player": "Felipe Aguilar",
+    "country": "CHL",
+    "averagePoints": 1.30,
+    "totalPoints": 67.51,
+    "totalEvents": 52,
+    "pointsLost": -25.97,
+    "pointsGained": 55.59
+  },
+  {
+    "rank": 135,
+    "player": "Simon Khan",
+    "country": "ENG",
+    "averagePoints": 1.29,
+    "totalPoints": 53.05,
+    "totalEvents": 41,
+    "pointsLost": -10.68,
+    "pointsGained": 48.02
+  },
+  {
+    "rank": 136,
+    "player": "Kristoffer Broberg",
+    "country": "SWE",
+    "averagePoints": 1.29,
+    "totalPoints": 51.71,
+    "totalEvents": 40,
+    "pointsLost": -22.42,
+    "pointsGained": 2.25
+  },
+  {
+    "rank": 137,
+    "player": "Daniel Summerhays",
+    "country": "USA",
+    "averagePoints": 1.28,
+    "totalPoints": 66.64,
+    "totalEvents": 52,
+    "pointsLost": -18.39,
+    "pointsGained": 44.16
+  },
+  {
+    "rank": 138,
+    "player": "William McGirt",
+    "country": "USA",
+    "averagePoints": 1.28,
+    "totalPoints": 66.45,
+    "totalEvents": 52,
+    "pointsLost": -22.46,
+    "pointsGained": 41.74
+  },
+  {
+    "rank": 139,
+    "player": "Matthew Every",
+    "country": "USA",
+    "averagePoints": 1.28,
+    "totalPoints": 66.39,
+    "totalEvents": 52,
+    "pointsLost": -30.93,
+    "pointsGained": 32.14
+  },
+  {
+    "rank": 140,
+    "player": "Matthew Jones",
+    "country": "AUS",
+    "averagePoints": 1.26,
+    "totalPoints": 61.93,
+    "totalEvents": 49,
+    "pointsLost": -11.79,
+    "pointsGained": 56.06
+  },
+  {
+    "rank": 141,
+    "player": "Greg Chalmers",
+    "country": "AUS",
+    "averagePoints": 1.25,
+    "totalPoints": 64.85,
+    "totalEvents": 52,
+    "pointsLost": -57.79,
+    "pointsGained": 30.82
+  },
+  {
+    "rank": 142,
+    "player": "Gaganjeet Bhullar",
+    "country": "IND",
+    "averagePoints": 1.24,
+    "totalPoints": 55.91,
+    "totalEvents": 45,
+    "pointsLost": -25.63,
+    "pointsGained": 13.74
+  },
+  {
+    "rank": 143,
+    "player": "Ben Curtis",
+    "country": "USA",
+    "averagePoints": 1.24,
+    "totalPoints": 60.76,
+    "totalEvents": 49,
+    "pointsLost": -37.76,
+    "pointsGained": 16.70
+  },
+  {
+    "rank": 144,
+    "player": "Stewart Cink",
+    "country": "USA",
+    "averagePoints": 1.24,
+    "totalPoints": 56.90,
+    "totalEvents": 46,
+    "pointsLost": -18.52,
+    "pointsGained": 50.85
+  },
+  {
+    "rank": 145,
+    "player": "Kevin Na",
+    "country": "USA",
+    "averagePoints": 1.23,
+    "totalPoints": 54.29,
+    "totalEvents": 44,
+    "pointsLost": -55.39,
+    "pointsGained": 5.75
+  },
+  {
+    "rank": 146,
+    "player": "Johnson Wagner",
+    "country": "USA",
+    "averagePoints": 1.23,
+    "totalPoints": 64.02,
+    "totalEvents": 52,
+    "pointsLost": -43.70,
+    "pointsGained": 31.44
+  },
+  {
+    "rank": 147,
+    "player": "Bud Cauley",
+    "country": "USA",
+    "averagePoints": 1.22,
+    "totalPoints": 63.58,
+    "totalEvents": 52,
+    "pointsLost": -38.40,
+    "pointsGained": 23.12
+  },
+  {
+    "rank": 148,
+    "player": "Ted Potter-jr",
+    "country": "USA",
+    "averagePoints": 1.20,
+    "totalPoints": 62.49,
+    "totalEvents": 52,
+    "pointsLost": -33.38,
+    "pointsGained": 34.27
+  },
+  {
+    "rank": 149,
+    "player": "Brian Gay",
+    "country": "USA",
+    "averagePoints": 1.20,
+    "totalPoints": 62.31,
+    "totalEvents": 52,
+    "pointsLost": -24.75,
+    "pointsGained": 56.81
+  },
+  {
+    "rank": 150,
+    "player": "Jeff Overton",
+    "country": "USA",
+    "averagePoints": 1.19,
+    "totalPoints": 61.69,
+    "totalEvents": 52,
+    "pointsLost": -44.58,
+    "pointsGained": 27.98
+  },
+  {
+    "rank": 151,
+    "player": "Charlie Wi",
+    "country": "KOR",
+    "averagePoints": 1.16,
+    "totalPoints": 60.33,
+    "totalEvents": 52,
+    "pointsLost": -39.99,
+    "pointsGained": 22.94
+  },
+  {
+    "rank": 152,
+    "player": "Toru Taniguchi",
+    "country": "JPN",
+    "averagePoints": 1.15,
+    "totalPoints": 58.44,
+    "totalEvents": 51,
+    "pointsLost": -43.03,
+    "pointsGained": 12.35
+  },
+  {
+    "rank": 153,
+    "player": "Aaron Baddeley",
+    "country": "AUS",
+    "averagePoints": 1.14,
+    "totalPoints": 59.45,
+    "totalEvents": 52,
+    "pointsLost": -57.76,
+    "pointsGained": 29.02
+  },
+  {
+    "rank": 154,
+    "player": "K.T. Kim",
+    "country": "KOR",
+    "averagePoints": 1.14,
+    "totalPoints": 59.40,
+    "totalEvents": 52,
+    "pointsLost": -61.25,
+    "pointsGained": 14.76
+  },
+  {
+    "rank": 155,
+    "player": "J.J. Henry",
+    "country": "USA",
+    "averagePoints": 1.13,
+    "totalPoints": 58.96,
+    "totalEvents": 52,
+    "pointsLost": -25.90,
+    "pointsGained": 32.33
+  },
+  {
+    "rank": 156,
+    "player": "Simon Dyson",
+    "country": "ENG",
+    "averagePoints": 1.13,
+    "totalPoints": 58.91,
+    "totalEvents": 52,
+    "pointsLost": -67.63,
+    "pointsGained": 26.41
+  },
+  {
+    "rank": 157,
+    "player": "Liang Wen-chong",
+    "country": "CHN",
+    "averagePoints": 1.13,
+    "totalPoints": 58.80,
+    "totalEvents": 52,
+    "pointsLost": -17.50,
+    "pointsGained": 30.36
+  },
+  {
+    "rank": 158,
+    "player": "Ryo Ishikawa",
+    "country": "JPN",
+    "averagePoints": 1.12,
+    "totalPoints": 58.12,
+    "totalEvents": 52,
+    "pointsLost": -61.12,
+    "pointsGained": 13.79
+  },
+  {
+    "rank": 159,
+    "player": "Vijay Singh",
+    "country": "FJI",
+    "averagePoints": 1.11,
+    "totalPoints": 57.87,
+    "totalEvents": 52,
+    "pointsLost": -48.25,
+    "pointsGained": 15.92
+  },
+  {
+    "rank": 160,
+    "player": "Jeff Maggert",
+    "country": "USA",
+    "averagePoints": 1.10,
+    "totalPoints": 56.21,
+    "totalEvents": 51,
+    "pointsLost": -10.31,
+    "pointsGained": 45.45
+  },
+  {
+    "rank": 161,
+    "player": "Ricardo Santos",
+    "country": "PRT",
+    "averagePoints": 1.09,
+    "totalPoints": 56.86,
+    "totalEvents": 52,
+    "pointsLost": -22.86,
+    "pointsGained": 47.68
+  },
+  {
+    "rank": 162,
+    "player": "Scott Brown",
+    "country": "USA",
+    "averagePoints": 1.09,
+    "totalPoints": 56.79,
+    "totalEvents": 52,
+    "pointsLost": -18.44,
+    "pointsGained": 49.59
+  },
+  {
+    "rank": 163,
+    "player": "Anirban Lahiri",
+    "country": "IND",
+    "averagePoints": 1.09,
+    "totalPoints": 43.61,
+    "totalEvents": 40,
+    "pointsLost": -16.93,
+    "pointsGained": 25.69
+  },
+  {
+    "rank": 164,
+    "player": "David Howell",
+    "country": "ENG",
+    "averagePoints": 1.08,
+    "totalPoints": 56.41,
+    "totalEvents": 52,
+    "pointsLost": -19.53,
+    "pointsGained": 37.83
+  },
+  {
+    "rank": 165,
+    "player": "Jeev Milkha Singh",
+    "country": "IND",
+    "averagePoints": 1.08,
+    "totalPoints": 56.00,
+    "totalEvents": 52,
+    "pointsLost": -39.83,
+    "pointsGained": 13.43
+  },
+  {
+    "rank": 166,
+    "player": "Robert Rock",
+    "country": "ENG",
+    "averagePoints": 1.07,
+    "totalPoints": 55.66,
+    "totalEvents": 52,
+    "pointsLost": -46.82,
+    "pointsGained": 24.00
+  },
+  {
+    "rank": 167,
+    "player": "Gregory Bourdy",
+    "country": "FRA",
+    "averagePoints": 1.07,
+    "totalPoints": 55.41,
+    "totalEvents": 52,
+    "pointsLost": -30.04,
+    "pointsGained": 28.76
+  },
+  {
+    "rank": 168,
+    "player": "Patrick Reed",
+    "country": "USA",
+    "averagePoints": 1.06,
+    "totalPoints": 42.48,
+    "totalEvents": 40,
+    "pointsLost": -4.94,
+    "pointsGained": 37.27
+  },
+  {
+    "rank": 169,
+    "player": "Jason Kokrak",
+    "country": "USA",
+    "averagePoints": 1.06,
+    "totalPoints": 55.01,
+    "totalEvents": 52,
+    "pointsLost": -21.38,
+    "pointsGained": 42.49
+  },
+  {
+    "rank": 170,
+    "player": "Romain Wattel",
+    "country": "FRA",
+    "averagePoints": 1.06,
+    "totalPoints": 52.82,
+    "totalEvents": 50,
+    "pointsLost": -25.10,
+    "pointsGained": 24.06
+  },
+  {
+    "rank": 171,
+    "player": "Bob Estes",
+    "country": "USA",
+    "averagePoints": 1.05,
+    "totalPoints": 48.40,
+    "totalEvents": 46,
+    "pointsLost": -22.38,
+    "pointsGained": 27.52
+  },
+  {
+    "rank": 172,
+    "player": "JB Hansen",
+    "country": "DNK",
+    "averagePoints": 1.05,
+    "totalPoints": 45.00,
+    "totalEvents": 43,
+    "pointsLost": -10.72,
+    "pointsGained": 23.11
+  },
+  {
+    "rank": 173,
+    "player": "Jerry Kelly",
+    "country": "USA",
+    "averagePoints": 1.04,
+    "totalPoints": 54.31,
+    "totalEvents": 52,
+    "pointsLost": -25.25,
+    "pointsGained": 42.00
+  },
+  {
+    "rank": 174,
+    "player": "Yoshinori Fujimoto",
+    "country": "JPN",
+    "averagePoints": 1.03,
+    "totalPoints": 41.27,
+    "totalEvents": 40,
+    "pointsLost": -19.61,
+    "pointsGained": 8.15
+  },
+  {
+    "rank": 175,
+    "player": "Michael Hoey",
+    "country": "NIR",
+    "averagePoints": 1.03,
+    "totalPoints": 53.53,
+    "totalEvents": 52,
+    "pointsLost": -38.72,
+    "pointsGained": 28.76
+  },
+  {
+    "rank": 176,
+    "player": "Fredrik Andersson Hed",
+    "country": "SWE",
+    "averagePoints": 1.03,
+    "totalPoints": 51.35,
+    "totalEvents": 50,
+    "pointsLost": -38.65,
+    "pointsGained": 5.21
+  },
+  {
+    "rank": 177,
+    "player": "Prayad Marksaeng",
+    "country": "THA",
+    "averagePoints": 1.03,
+    "totalPoints": 53.33,
+    "totalEvents": 52,
+    "pointsLost": -21.93,
+    "pointsGained": 40.80
+  },
+  {
+    "rank": 178,
+    "player": "Retief Goosen",
+    "country": "ZAF",
+    "averagePoints": 1.02,
+    "totalPoints": 41.63,
+    "totalEvents": 41,
+    "pointsLost": -41.32,
+    "pointsGained": 13.52
+  },
+  {
+    "rank": 179,
+    "player": "James Hahn",
+    "country": "USA",
+    "averagePoints": 1.01,
+    "totalPoints": 52.68,
+    "totalEvents": 52,
+    "pointsLost": -18.99,
+    "pointsGained": 34.14
+  },
+  {
+    "rank": 180,
+    "player": "Rory Sabbatini",
+    "country": "ZAF",
+    "averagePoints": 1.01,
+    "totalPoints": 52.37,
+    "totalEvents": 52,
+    "pointsLost": -38.99,
+    "pointsGained": 27.84
+  },
+  {
+    "rank": 181,
+    "player": "Michael Hendry",
+    "country": "NZL",
+    "averagePoints": 1.00,
+    "totalPoints": 40.16,
+    "totalEvents": 40,
+    "pointsLost": -11.71,
+    "pointsGained": 25.19
+  },
+  {
+    "rank": 181,
+    "player": "Garth Mulroy",
+    "country": "ZAF",
+    "averagePoints": 1.00,
+    "totalPoints": 52.21,
+    "totalEvents": 52,
+    "pointsLost": -30.40,
+    "pointsGained": 28.32
+  },
+  {
+    "rank": 183,
+    "player": "Alvaro Quiros",
+    "country": "ESP",
+    "averagePoints": 0.99,
+    "totalPoints": 43.74,
+    "totalEvents": 44,
+    "pointsLost": -46.60,
+    "pointsGained": 13.62
+  },
+  {
+    "rank": 184,
+    "player": "Toshinori Muto",
+    "country": "JPN",
+    "averagePoints": 0.98,
+    "totalPoints": 50.87,
+    "totalEvents": 52,
+    "pointsLost": -38.10,
+    "pointsGained": 9.96
+  },
+  {
+    "rank": 185,
+    "player": "Noh Seung-yul",
+    "country": "KOR",
+    "averagePoints": 0.98,
+    "totalPoints": 50.75,
+    "totalEvents": 52,
+    "pointsLost": -41.43,
+    "pointsGained": 12.34
+  },
+  {
+    "rank": 186,
+    "player": "Casey Wittenberg",
+    "country": "USA",
+    "averagePoints": 0.97,
+    "totalPoints": 50.38,
+    "totalEvents": 52,
+    "pointsLost": -25.66,
+    "pointsGained": 17.69
+  },
+  {
+    "rank": 187,
+    "player": "Bryce Molder",
+    "country": "USA",
+    "averagePoints": 0.96,
+    "totalPoints": 48.23,
+    "totalEvents": 50,
+    "pointsLost": -36.82,
+    "pointsGained": 24.68
+  },
+  {
+    "rank": 188,
+    "player": "Justin Leonard",
+    "country": "USA",
+    "averagePoints": 0.96,
+    "totalPoints": 50.07,
+    "totalEvents": 52,
+    "pointsLost": -17.30,
+    "pointsGained": 40.96
+  },
+  {
+    "rank": 189,
+    "player": "Tommy Gainey",
+    "country": "USA",
+    "averagePoints": 0.96,
+    "totalPoints": 49.90,
+    "totalEvents": 52,
+    "pointsLost": -41.48,
+    "pointsGained": 17.57
+  },
+  {
+    "rank": 190,
+    "player": "Koumei Oda",
+    "country": "JPN",
+    "averagePoints": 0.95,
+    "totalPoints": 49.55,
+    "totalEvents": 52,
+    "pointsLost": -40.02,
+    "pointsGained": 9.52
+  },
+  {
+    "rank": 191,
+    "player": "Nicholas Thompson",
+    "country": "USA",
+    "averagePoints": 0.95,
+    "totalPoints": 49.44,
+    "totalEvents": 52,
+    "pointsLost": -13.23,
+    "pointsGained": 38.05
+  },
+  {
+    "rank": 192,
+    "player": "Jason Bohn",
+    "country": "USA",
+    "averagePoints": 0.95,
+    "totalPoints": 49.33,
+    "totalEvents": 52,
+    "pointsLost": -14.38,
+    "pointsGained": 32.46
+  },
+  {
+    "rank": 193,
+    "player": "Edoardo Molinari",
+    "country": "ITA",
+    "averagePoints": 0.94,
+    "totalPoints": 39.69,
+    "totalEvents": 42,
+    "pointsLost": -23.11,
+    "pointsGained": 28.20
+  },
+  {
+    "rank": 194,
+    "player": "Alejandro Canizares",
+    "country": "ESP",
+    "averagePoints": 0.94,
+    "totalPoints": 48.97,
+    "totalEvents": 52,
+    "pointsLost": -21.38,
+    "pointsGained": 25.51
+  },
+  {
+    "rank": 195,
+    "player": "Shawn Stefani",
+    "country": "USA",
+    "averagePoints": 0.94,
+    "totalPoints": 42.31,
+    "totalEvents": 45,
+    "pointsLost": -13.06,
+    "pointsGained": 19.99
+  },
+  {
+    "rank": 196,
+    "player": "Richard H. Lee",
+    "country": "USA",
+    "averagePoints": 0.94,
+    "totalPoints": 48.63,
+    "totalEvents": 52,
+    "pointsLost": -13.72,
+    "pointsGained": 35.89
+  },
+  {
+    "rank": 197,
+    "player": "Lee Kyoung-Hoon",
+    "country": "KOR",
+    "averagePoints": 0.93,
+    "totalPoints": 37.37,
+    "totalEvents": 40,
+    "pointsLost": -16.80,
+    "pointsGained": 12.65
+  },
+  {
+    "rank": 197,
+    "player": "Hennie Otto",
+    "country": "ZAF",
+    "averagePoints": 0.93,
+    "totalPoints": 48.58,
+    "totalEvents": 52,
+    "pointsLost": -31.18,
+    "pointsGained": 28.36
+  },
+  {
+    "rank": 199,
+    "player": "Jakobus Roos",
+    "country": "ZAF",
+    "averagePoints": 0.93,
+    "totalPoints": 38.20,
+    "totalEvents": 41,
+    "pointsLost": -10.63,
+    "pointsGained": 20.11
+  },
+  {
+    "rank": 200,
+    "player": "Steve Webster",
+    "country": "ENG",
+    "averagePoints": 0.93,
+    "totalPoints": 48.32,
+    "totalEvents": 52,
+    "pointsLost": -22.58,
+    "pointsGained": 26.69
+  }
+]

@@ -1,0 +1,26 @@
+<div class="overflow-scroll">
+  <h1>World Golf Rankings through July 28, 2013</h1>
+  <div class="grid-header">
+    <div class="showing">
+      <span>Showing</span>
+      <select>
+        <option value="10" {@eq key="{resultsPerPage}" value="10"}selected{/eq}>10</option>
+        <option value="25" {@eq key="{resultsPerPage}" value="25"}selected{/eq}>25</option>
+        <option value="50" {@eq key="{resultsPerPage}" value="50"}selected{/eq}>50</option>
+      </select>
+      <span>entries</span>
+    </div>
+    <input type="text" placeholder="Search Player">
+  </div>
+  <table class="people">
+    <thead>
+      <tr></tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+  <ul class="pagination">
+    {#pages}
+    <li data-page="{.}" {@eq key="{currentPage}" value="{.}"}class="active"{/eq}>{.}</li>
+    {/pages}
+  </ul>
+</div>
